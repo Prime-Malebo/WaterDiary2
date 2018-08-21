@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WaterDiary</string>
+    <string name="averageDay">Average/day :</string>
+    <string name="addDiary">Calculate Usage</string>
+    <string name="estHeading">Estimates (liters)</string>
+    <string name="rHeading">CALCULATE YOUR DAILY USAGE</string>
+    <string name="literHint"><i>100l</i></string>
+    <string name="recordEntry">Save Total</string>
+    <string name="cancelEntry">Cancel</string>
+    <string name="date2">07 March 1996</string>
+    <string name="example">e.g. 100 </string>
+    <string name="button_Save_Category">Save</string>
+    <string name="real_total">Total(liters) :</string>
+    <string name="entry_heading">ENTRY PAGE</string>
+    <string name="entryDate">Entry for:</string>
+    <string name="back_entry">Back</string>
+    <string name="overview">Overview</string>
+    <string name="next_entry">Next</string>
+
+</resources>
+
